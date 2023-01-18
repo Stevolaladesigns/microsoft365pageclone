@@ -1,0 +1,53 @@
+.topbar{
+    background-color: rgb(83, 83, 207);
+    height: 50px;
+}
+.topbar-text {
+ padding: 8px 0px 8px 250px;   
+}
+.btn-toolbar .btn{
+    margin-right: 10px;
+}
+.btn-toolbar .btn:last-child{
+    margin-right: 0;
+}
+.box-card-1{
+    background-color: orange;
+    border-radius: 0;
+    height: 60px;
+    
+}
+.box-card1{
+    background-color: orangered;
+    border-radius: 0;
+}
+.box-card-2{
+    background-color:rgb(70, 173, 214);
+    border-radius: 0;
+    height: 60px;
+   padding-top: 15px;
+}
+
+
+.box-card2{
+    background-color:blue;
+    border-radius: 0;
+}
+.box-card-3{
+    background-color: rgb(238, 59, 238);
+    border-radius: 0;
+    height: 60px;
+}
+
+.box-card3{
+    background-color: purple;
+    border-radius: 0;
+}
+.card-text{
+    color: white;
+    text-align: center;
+    
+}
+footer{
+  margin-top: 50px;  
+}
